@@ -71,7 +71,7 @@ async function sendWelcomeButtons(to) {
         type: "button",
         body: {
           text:
-"Hello! 👋 Welcome to MateSmart — Matelli’s Last Minute App! 🚀\n\nWe deliver groceries, medicines, fast food, and daily essentials quickly across Matelli & nearby areas.\nFresh products, fair prices, and super-fast doorstep delivery — everything you need, right when you need it.\n\n📍 Store Location: Matelli Bazaar, Matelli, Jalpaiguri, West Bengal\n📱 Facebook: facebook.com/MateSmart\n📸 Instagram: instagram.com/MateSmart\n\nNeed help placing an order or tracking one? Just message us — we’re here to help! 😊"
+"Hello! 👋 Welcome to MateSmart — Matelli’s Last Minute App! 🚀\n\nWe deliver groceries, medicines, fast food, and daily essentials quickly across Matelli & nearby areas.\nFresh products, fair prices, and super-fast doorstep delivery — everything you need, right when you need it.\n\n📍 Store Location: Matelli Bazaar, Matelli, Jalpaiguri, West Bengal\n📱 Facebook: facebook.com/MatesMart24x7\n📸 Instagram: instagram.com/matesmart_24x7_\n\nNeed help placing an order or tracking one? Just message us — we’re here to help! 😊"
         },
         action: {
           buttons: [
